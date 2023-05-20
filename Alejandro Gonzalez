@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Esencias y Perfumes Charly Brown</title>
+  <style>
+    /* Estilos CSS para la página */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    
+    header {
+      background-color: #f5f5f5;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    h1 {
+      color: #1dfcf1;
+      margin: 0;
+    }
+    
+    nav {
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+    }
+    
+    nav a {
+      color: #fff;
+      margin: 0 10px;
+      text-decoration: none;
+    }
+    
+    section {
+      margin: 20px;
+    }
+    
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Perfumería Fragancia</h1>
+  </header>
+  
+  <nav>
+    <a href="#inicio">Inicio</a>
+    <a href="#productos">Productos</a>
+    <a href="#contacto">Contacto</a>
+  </nav>
+  
+  <section id="inicio">
+    <h2>Bienvenido a Perfumería Charly Brown</h2>
+    <p>En Perfumería Fragancia ofrecemos una amplia gama de fragancias de alta calidad para hombres y mujeres. Nuestros productos son cuidadosamente seleccionados para brindarle las mejores opciones en perfumes.</p>
+  </section>
+  
+  <section id="productos">
+    <h2>Nuestros Productos</h2>
+    <ul>
+      <li>Perfumes para hombres</li>
+      <li>Perfumes para mujeres</li>
+      <li>Perfumes unisex</li>
+      <li>Productos de cuidado personal</li>
+      <li>Cremas y Desodorantes</li>
+    </ul>
+  </section>
+  
+  <section id="contacto">
+    <h2>Contáctanos</h2>
+    <p>Si tienes alguna pregunta o deseas realizar un pedido, no dudes en ponerte en contacto con nosotros:</p>
+    <p>Teléfono: 55-48-03-17-80</p>
+    <p>Email: epcharlybrown22@gmail.com</p>
+  </section>
+  
+  <footer>
+    <p>Derechos de autor &copy; 2023 Perfumería Fragancia. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>
